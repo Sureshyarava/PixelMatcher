@@ -1,0 +1,4 @@
+.venv/
+.pixelpatrol/
+__pycache__/
+*.pyc
